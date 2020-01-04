@@ -1,8 +1,3 @@
-#!/bin/python3
-
-# Complete the hourglassSum function below.
-
-
 def hourglassSum(arr):
     largest = float("-inf")
     for y in range(len(arr) - 2):
